@@ -1,0 +1,9 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Scripts utilitaires (pas nécessaires dans le dépôt)
+resize_icons.ps1
+
+# Ne jamais commettre de clés API — elles sont dans chrome.storage.local
+# Ce fichier est là pour rappel. Les clés ne sont PAS dans le code.
